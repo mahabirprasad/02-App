@@ -1,4 +1,4 @@
 public class Demo1{
 public void m1(){
-int y =100;
+int y =101;
 }}
